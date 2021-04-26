@@ -13,7 +13,7 @@
 
   - Student 3: Zakarya JOUHAFA
 
-  - Student 4: ❔
+  - Student 4: 
 
 ## Getting Started
 
