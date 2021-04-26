@@ -6,11 +6,11 @@
 
 🖥 Teams meeting URL: ❔
 
-  - Student 1: ❔
+  - Student 1: Amine EL KARI
 
-  - Student 2: ❔
+  - Student 2: Ismail GHMIMAT
 
-  - Student 3: ❔
+  - Student 3: Zakarya JOUHAFA
 
   - Student 4: ❔
 
