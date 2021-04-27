@@ -4,8 +4,7 @@
 
 ## Team
 
-🖥 Teams meeting URL: https://teams.microsoft.com/l/team/19%3a458697a3abc24cebad9acbb067eac39a%40thread.tacv2/conversations?groupId=cfc83716-e005-405a-a057-e928695c22f0&tenantId=39626157-a047-4689-87a2-6fa645cb5cb7
-
+🖥 Teams meeting URL: https://teams.microsoft.com/l/team/19%3a567950cb048645d08a8dd77684cd55bf%40thread.tacv2/conversations?groupId=bcb36382-dae0-4975-87a1-0b5925bcffef&tenantId=39626157-a047-4689-87a2-6fa645cb5cb7
 
   - Student 1: Amine EL KARI
 
